@@ -33,14 +33,7 @@ packs, account data, host services, deployment tools and build artifacts are
 separate inputs. The repository is a source overlay, so building also requires
 an authorized engine baseline and the listed dependencies.
 
-## License
 
-Bloxicon has two parts with different terms:
-
-| Part | License | Reuse |
-| --- | --- | --- |
-| Rendering: `Rendering/` and the rendering parts of `patches/engine.patch` | [GPL-3.0-only](Rendering/LICENSE) | Open under the GPL; changes you distribute must stay GPL |
-| Vita client: everything else, including `PSVita/`, `App/`, `Base/`, `Network/` and branding | [Bloxicon Source-Available License](LICENSE) | Permission required, per base |
 
 You may read the client code, build it for your own use and send fixes back as
 pull requests. Modifications, new clients and any other project based on the
