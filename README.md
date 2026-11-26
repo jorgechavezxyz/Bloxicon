@@ -41,11 +41,6 @@ Vita client need the owner's written permission first, and so does any use of
 the Bloxicon name or branding, including by projects that only reuse the GPL
 rendering code.
 
-Open a [permission request](../../issues/new?template=permission-request.yml)
-for each base you want to build on (a specific Bloxicon release or commit and
-part of the client). Every request is discussed with the owner before a
-decision. Approval for one base does not cover another base, a later version or
-a different project.
 
 Approved projects must publish their complete source code, publicly and free of
 charge, under the same license, every time they release a build or run it as a
